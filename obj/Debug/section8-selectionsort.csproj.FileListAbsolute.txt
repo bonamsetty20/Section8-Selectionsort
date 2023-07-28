@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\bin\Debug\section8-selectionsort.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\bin\Debug\section8-selectionsort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\bin\Debug\section8-selectionsort.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\obj\Debug\section8-selectionsort.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\obj\Debug\section8-selectionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\obj\Debug\section8-selectionsort.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\obj\Debug\section8-selectionsort.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\section8-selectionsort\section8-selectionsort\obj\Debug\section8-selectionsort.pdb
